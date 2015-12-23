@@ -78,5 +78,6 @@ end
 # puts "Pages Found: "
 # found.each do |f| puts f end
 
+if @found.length == 0 then "[NO MATCH] No path to Admin Panel found." else puts "[INFO] #{@found.length} matche(s)" end
 puts "Admin Finder Exiting..."
 exit

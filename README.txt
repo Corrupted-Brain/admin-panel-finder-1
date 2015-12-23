@@ -2,7 +2,7 @@ Admin Panel Finder
 ==================
 
 version: 0.1
-author: Randeep Singh
+author: Randeep Singh (Gr3atwh173)
 
 Use this script to find the link for the admin panel of a website.
 There is a 'default.txt' file included in this ripo that you can use.

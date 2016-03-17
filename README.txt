@@ -4,6 +4,8 @@ Admin Panel Finder
 version: 0.1
 author: Randeep Singh (Gr3atwh173)
 
+Note: Use of this program for illegal purposes is strictly forbidden. Use it at your own risk. 
+
 Use this script to find the link for the admin panel of a website.
 There is a 'default.txt' file included in this ripo that you can use.
 Alternatively, you can create/download your own lists.

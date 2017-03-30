@@ -6,7 +6,7 @@ require 'open-uri'
 def banner
 	puts "#{"=" * 35}"
 	puts " Admin Panel Finder v0.1"
-	puts " Author: Randeep Singh"
+	puts " Author: Gr3a7wh173"
 	puts "#{"=" * 35}"
 end
 
